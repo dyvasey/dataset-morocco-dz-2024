@@ -1,0 +1,17 @@
+name: dataset-morocco-dz-2024
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy=1.26.4
+  - pandas=1.5.1
+  - matplotlib
+  - ipykernel
+  - jupyter
+  - openpyxl
+  - pypdf
+  - cmcrameri
+  - xlrd
+  - pip
+  - pip:
+      - git+https://github.com/dyvasey/geoscripts
