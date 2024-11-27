@@ -12,6 +12,7 @@ dependencies:
   - pypdf
   - cmcrameri
   - xlrd
+  - rpy2
   - pip
   - pip:
       - git+https://github.com/dyvasey/geoscripts
