@@ -1,0 +1,35 @@
+﻿Sample,Lithology,Latitude,Longitude,Altitude (m),Accuracy (m),Purpose,Barrel,Arrived?
+MR24-001a,Syenite,32.35102,-7.93921,507,3,ig,1,y
+MR24-001b,Mafic porphyritic,32.35102,-7.93921,507,3,ig,1,y
+MR24-002,Granite,32.28342,-8.03381,456,4.7,ig,1,y
+MR24-003,Granodiorite,32.28826,-8.05523,452,4.8,ig,1,y
+MR24-004,Granodiorite,32.30136,-8.07509,477,3,ig,1,y
+MR24-005,Granite,32.35648,-8.14625,512,3,ig,1,y
+MR24-006,Sandstone,32.47358,-8.37145,268,3,dz,2,y
+MR24-007,Quartzite,32.03872,-7.98545,443,3,tc,2,y
+MR24-008,Conglomerate,32.12498,-8.71418,441,3,dz,2,y
+MR24-009,Sandstone,32.12451,-8.71469,420,3,dz,2,y
+MR24-010,Gabbro,32.02674,-8.52035,436,3,ig,3,y
+MR24-011,Quartzite,31.96582,-8.32922,516,3,tc,3,y
+MR24-012,Diabase,31.90266,-8.20202,499,3,ig,3,y
+MR24-013,Lamprophyre,31.90112,-8.2037,490,3,ig,2,y
+MR24-014a,Diabase,31.8526,-8.17408,486,3,ig,3,y
+MR24-014b,Fine-grained dike,31.8526,-8.17408,486,3,ig,3,y
+MR24-014c,Mafic rock,31.8526,-8.17408,486,3,ig,3,y
+MR24-015,Lamprophyre,31.83453,-8.16241,440,3,ig,4,y
+MR24-016,Lamprophyre,31.82367,-8.15442,432,3,ig,4,y
+MR24-017,Sandstone,31.71765,-7.913,442,3,dz,4,y
+MR24-018,Quartzite,31.88907,-7.94666,611,3,tc,1,y
+MR24-019,Basalt,31.54736,-7.5657,839,3,ig,4,y
+MR24-020,Conglomerate,31.54737,-7.56555,836,3,dz,5,y
+MR24-021,Basalt,31.5363,-7.50394,938,3,ig,5,y
+MR24-023,Sandstone,31.45131,-7.39511,1287,3,dz,5,y
+MR24-024,Basalt,31.2591,-7.39993,2173,3,ig,5,y
+MR24-025,Mafic dike,32.09855,-5.51107,2282,3,ig,5,y
+MR24-026a,Volcaniclastic,32.14159,-5.57055,2215,3,ig,6,y
+MR24-026b,Volcanic,32.14159,-5.57055,2215,3,ig,6,y
+MR24-027,Gabbro,32.21341,-5.45821,2587,3,ig,6,y
+MR24-028,Intermediate intrusive,32.21215,-5.45669,2602,3,ig,6,y
+MR24-029,Dolerite,32.19499,-5.63054,2264,3,ig,6,y
+MR24-030,Mafic intrusive,32.21672,-5.69843,2196,3,ig,6,y
+MR24-031,Gabbro,32.21851,-5.69882,2138,3,ig,6,y
