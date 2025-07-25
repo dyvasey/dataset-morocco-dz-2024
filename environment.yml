@@ -6,6 +6,7 @@ dependencies:
   - python=3.11
   - numpy=1.26.4
   - pandas=1.5.1
+  - rasterio
   - matplotlib
   - ipykernel
   - jupyter
