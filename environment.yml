@@ -14,6 +14,7 @@ dependencies:
   - pypdf
   - cmcrameri
   - xlrd
+  - scikit-learn
   - rpy2
   - r-irkernel
   - r-isoplotr=5.2
