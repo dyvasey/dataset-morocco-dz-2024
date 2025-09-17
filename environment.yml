@@ -13,6 +13,8 @@ dependencies:
   - openpyxl
   - pypdf
   - cmcrameri
+  - glasbey
+  - seaborn
   - xlrd
   - scikit-learn
   - rpy2
