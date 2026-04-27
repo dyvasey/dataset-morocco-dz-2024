@@ -2,6 +2,7 @@
 ~$*
 *.Identifier
 *.pdf
+*.jpg
 dz/
 isoplotr/
 dz_locations.csv
