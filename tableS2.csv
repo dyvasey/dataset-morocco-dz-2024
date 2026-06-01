@@ -1,0 +1,55 @@
+Sample,Region,Subregion,Source,Latitude (DD),Longitude (DD),Rock Type,Period,Age (Ma),Error (Ma),Lower Error (Ma),Technique
+AC-1 Rim,Western Meseta,Jebilet,Dostal et al. (2005),31.78,-8.22,Lamprophyre Xenolith,Triassic,235.0,4.0,,SHRIMP
+AC-1 Core 1,Western Meseta,Jebilet,Dostal et al. (2005),31.78,-8.22,Lamprophyre Xenolith,Permian,291.0,3.0,,SHRIMP
+AC-1 Core 2,Western Meseta,Jebilet,Dostal et al. (2005),31.78,-8.22,Lamprophyre Xenolith,Carboniferous,328.0,3.0,,SHRIMP
+AC-3,Western Meseta,Jebilet,Dostal et al. (2005),31.78,-8.22,Lamprophyre Xenolith,Permian,293.0,3.0,,SHRIMP
+C-1G,Western Meseta,Jebilet,Dostal et al. (2005),31.8,-8.19,Lamprophyre Xenolith,Permian,285.0,3.0,,SHRIMP
+C-6,Western Meseta,Jebilet,Dostal et al. (2005),31.8,-8.19,Lamprophyre Xenolith,Permian,280.0,7.0,,SHRIMP
+DC-39,Western Meseta,Jebilet,Dostal et al. (2005),31.8,-8.19,Lamprophyre Xenolith,Permian,292.0,11.0,,SHRIMP
+DC-44,Western Meseta,Jebilet,Dostal et al. (2005),31.8,-8.19,Lamprophyre Xenolith,Carboniferous,300.0,4.0,,SHRIMP
+AC-4,Western Meseta,Jebilet,Dostal et al. (2005),31.78,-8.22,Lamprophyre Xenolith,Permian,292.0,6.0,,SHRIMP
+AC-9,Western Meseta,Jebilet,Dostal et al. (2005),31.78,-8.22,Lamprophyre Xenolith,Permian,288.0,6.0,,SHRIMP
+TM1G,Western Meseta,Zaer,Domeier et al. (2021),33.025,-5.664,Andesite,Carboniferous,305.59,2.68,,LA-ICPMS
+BA1G,Western Meseta,Zaer,Domeier et al. (2021),33.673,-5.743,Andesite,Carboniferous,301.5,1.24,,LA-ICPMS
+TA1G,Western Meseta,Zaer,Domeier et al. (2021),32.999,-5.685,Andesite,Permian,282.76,2.19,,LA-ICPMS
+TZ1G,Western Meseta,Zaer,Domeier et al. (2021),33.148,-6.092,Andesite,Permian,267.9,3.9,,LA-ICPMS
+TC1G,Western Meseta,Zaer,Domeier et al. (2021),32.926,-6.315,Andesite,Permian,295.5,3.4,,LA-ICPMS
+MB2G,Western Meseta,Rehamna,Domeier et al. (2021),32.66,-7.812,Andesite,Permian,284.2,4.6,,LA-ICPMS
+MB4G,Western Meseta,Rehamna,Domeier et al. (2021),32.657,-7.811,Andesite,Permian,294.63,0.67,,LA-ICPMS
+NE0G,Western Meseta,Rehamna,Domeier et al. (2021),32.266,-7.651,Rhyolite,Permian,277.07,0.61,,LA-ICPMS
+G1,Western Meseta,Zaer,Hadimi et al. (2021),33.664,-6.067,Rhyolite,Permian,286.4,4.7,,SHRIMP
+AYJ0309,Western Meseta,Jebilet,Moutbir et al. (2024),31.87302778,-8.151055556,Gabbro,Carboniferous,343.6,2.9,,SHRIMP
+AYJ0109,Western Meseta,Jebilet,Moutbir et al. (2024),31.85511111,-8.133361111,Trondhjemite,Carboniferous,345.6,2.8,,SHRIMP
+AYJ80,Western Meseta,Jebilet,Moutbir et al. (2024),31.82143333,-8.117813889,Quartz Diorite,Carboniferous,335.8,3.3,,SHRIMP
+GS30,Western Meseta,Jebilet,Moutbir et al. (2024),31.79069444,-8.161663889,Mesogabbro,Carboniferous,347.1,2.9,,SHRIMP
+TBZ,Western Meseta,Jebilet,Essaifi et al. (2003),31.85,-8.25,Felsic Rock,Carboniferous,330.5,0.68,0.83,ID-TIMS
+KH,Western Meseta,Jebilet,Delchini et al. (2018),31.899,-8.208,Felsic Rock,Carboniferous,345.0,2.0,,LA-ICPMS
+JGO1,Western Meseta,Jebilet,Delchini et al. (2018),31.789,-7.899,Granodiorite,Carboniferous,337.0,5.0,,LA-ICPMS
+JGO2,Western Meseta,Jebilet,Delchini et al. (2018),31.716,-7.943,Granodiorite,Carboniferous,344.0,3.0,,LA-ICPMS
+JGO3,Western Meseta,Jebilet,Delchini et al. (2018),31.793,-7.872,Granodiorite,Carboniferous,343.0,7.0,,LA-ICPMS
+JGO4,Western Meseta,Jebilet,Delchini et al. (2018),31.781,-7.875,Granodiorite,Carboniferous,348.0,8.0,,LA-ICPMS
+JTB1,Western Meseta,Jebilet,Delchini et al. (2018),31.772,-8.032,Granodiorite,Carboniferous,346.0,10.0,,LA-ICPMS
+JTB2,Western Meseta,Jebilet,Delchini et al. (2018),31.752,-8.054,Granodiorite,Carboniferous,336.0,4.0,,LA-ICPMS
+JTB3,Western Meseta,Jebilet,Delchini et al. (2018),31.729,-8.041,Granodiorite,Carboniferous,337.0,4.0,,LA-ICPMS
+JTB4,Western Meseta,Jebilet,Delchini et al. (2018),31.714,-8.021,Granodiorite,Carboniferous,358.0,7.0,,LA-ICPMS
+J13A,Western Meseta,Jebilet,Chopin et al. (2023),31.7774,-7.819466667,Granodiorite,Carboniferous,335.2,0.8,,LA-ICPMS
+Tz10/05,Western Meseta,Zaer,Rossi et al. (2016),33.18,-5.63,Granodiorite,Permian,270.4,3.9,,LA-ICPMS
+Tz10/41,Western Meseta,Zaer,Rossi et al. (2016),33.18,-5.63,Granodiorite,Permian,268.0,27.0,,LA-ICPMS
+Tz11/04,Western Meseta,Zaer,Rossi et al. (2016),33.18,-5.63,Granodiorite,Permian,261.0,13.0,,LA-ICPMS
+Tz10/26,Western Meseta,Zaer,Rossi et al. (2016),33.18,-5.63,Microgranite,Permian,273.0,13.0,,LA-ICPMS
+SRYN 338,Western Meseta,Rehamna,Ait Lahna et al. (2018),32.34,-7.87,Metarhyolite,Carboniferous,339.5,0.89,,SHRIMP
+BM 20,Western Meseta,Rehamna,Hadimi et al. (2018),32.63866944,-7.748547222,Rhyolite,Permian,285.3,4.9,,LA-ICPMS
+YT 304,Western Meseta,Zaer,Youbi et al. (2018),32.99473333,-5.623491667,Dacite,Permian,295.1,2.9,,LA-ICPMS
+YT 300,Western Meseta,Zaer,Youbi et al. (2018),33.03646944,-5.686797222,Rhyolite,Permian,290.3,2.1,,LA-ICPMS
+YT 301,Western Meseta,Zaer,Youbi et al. (2018),33.03469444,-5.687594444,Andesite/Rhyolite,Permian,287.9,3.8,,LA-ICPMS
+YT 302,Western Meseta,Zaer,Youbi et al. (2018),33.03120278,-5.692186111,Rhyolite,Permian,290.6,2.6,,LA-ICPMS
+YT 303,Western Meseta,Zaer,Youbi et al. (2018),33.02903056,-5.695097222,Dacite,Permian,280.3,2.1,,LA-ICPMS
+Baudin01-1,Western Meseta,Zaer,Baudin et al. (2001),33.414,-6.08,Granite,Permian,297.0,16.0,7.0,ID-TIMS
+Baudin01-2,Western Meseta,Zaer,Baudin et al. (2001),33.414,-6.08,Granite,Permian,296.2,2.9,,SHRIMP
+Baudin04,Western Meseta,Rehamna,Baudin et al. (2004),32.962,-7.925,Microgranitic Dyke,Permian,285.4,6.1,,ID-TIMS
+Chevremont01,Western Meseta,Zaer,Cailleux et al. (2001),33.417,-6.642,Granodiorite,Permian,291.0,16.0,7.0,ID-TIMS
+Ettachfini18-1,High Atlas,Marrakech,Ettachfini et al. (2018),31.169,-8.316,Granite,Permian,275.6,3.4,,SHRIMP
+Ettachfini18-2,High Atlas,Marrakech,Ettachfini et al. (2018),31.168,-8.3,Rhyolite,Permian,279.0,2.6,,SHRIMP
+Ettachfini18-3,High Atlas,Marrakech,Ettachfini et al. (2018),31.168,-8.295,Microgranite,Permian,283.0,3.0,,SHRIMP
+Fekkak18-1,High Atlas,Marrakech,Fekkak et al. (2018),31.249,-8.508,Granite,Permian,270.0,1.8,,SHRIMP
+Fekkak18-2,High Atlas,Marrakech,Fekkak et al. (2018),31.115,-8.513,Granite,Permian,299.0,3.0,,SHRIMP
