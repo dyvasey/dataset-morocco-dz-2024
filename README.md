@@ -11,7 +11,7 @@ The code is primarily housed with Jupyter Notebooks, which are intended to be ru
 
 1. Run `process_laserchron.ipynb`, `process_ig_laserchron.ipynb`, and `process_published.ipynb` in any order. These do some initial data processing needed for the other notebooks.
 2. Run `analysis_igneous.ipynb` to reproduce figures related to igneous zircon U-Pb data from Morocco
-4. Run `analysis` to reproduce figures related to detrital zircon U-Pb data from Morocco.
+4. Run `analysis_dz.ipynb` to reproduce figures related to detrital zircon U-Pb data from Morocco.
 5. Run `supp_tables.ipynb` to see construction of supplementary table of the above igneous and detrital zircon U-Pb data.
 
 ### Additional Notebooks
