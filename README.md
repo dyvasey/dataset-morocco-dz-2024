@@ -18,6 +18,5 @@ The code is primarily housed with Jupyter Notebooks, which are intended to be ru
 The other notebooks in this repository contain code used to conduct preliminary analysis and figures. These notebooks are not guaranteed to be functional or to contain usable figures/tables:
 * color.ipynb
 * gis_output.ipynb
-* isoplotr_mds.ipynb
 * map_igneous.ipynb
 * map_provenance.ipynb
