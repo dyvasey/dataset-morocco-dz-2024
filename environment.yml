@@ -1,11 +1,10 @@
 name: dataset-morocco-dz-2024
 channels:
   - conda-forge
-  - davasey
 dependencies:
   - python=3.11
-  - numpy=1.26.4
-  - pandas=1.5.1
+  - numpy
+  - pandas
   - rasterio
   - matplotlib
   - ipykernel
@@ -17,9 +16,6 @@ dependencies:
   - seaborn
   - xlrd
   - scikit-learn
-  - rpy2
-  - r-irkernel
-  - r-isoplotr=5.2
   - pip
   - pip:
       - git+https://github.com/dyvasey/geoscripts.git@dz
