@@ -22,5 +22,4 @@ dependencies:
   - r-isoplotr=5.2
   - pip
   - pip:
-      #- git+https://github.com/dyvasey/geoscripts.git@dz
-      - "-e /home/dyvasey/git/geoscripts"
+      - git+https://github.com/dyvasey/geoscripts.git@dz
