@@ -6,7 +6,7 @@ dependencies:
   - numpy=1.26.4
   - pandas=1.5.1
   - rasterio
-  - matplotlib
+  - matplotlib=3.8.4
   - ipykernel
   - jupyter
   - openpyxl
@@ -15,7 +15,7 @@ dependencies:
   - glasbey
   - seaborn
   - xlrd
-  - scikit-learn
+  - scikit-learn=1.7.2
   - pip
   - pip:
       - git+https://github.com/dyvasey/geoscripts.git@dz
